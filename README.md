@@ -1,2 +1,5 @@
 # python3-tutorial
-Python 3 Tutorial
+
+自〈[Python Tutorial](http://openhome.cc/Gossip/CodeData/PythonTutorial/)〉改寫為 Python 3.5 的版本中...
+
+
